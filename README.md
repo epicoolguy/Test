@@ -6,3 +6,6 @@ ________________________________________________________________________________
 - Me, for being good at formatting
 - The 3dshacks community for helping me out
 - Nobody
+______________
+# Warnings
+This will not compile. It's a pile of stolen shit and this one html file I made.
